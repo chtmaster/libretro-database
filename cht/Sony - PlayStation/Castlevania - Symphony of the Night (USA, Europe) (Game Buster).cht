@@ -21,19 +21,19 @@ cheat4_code = "800F505E+1400"
 cheat4_enable = false 
 
 cheat5_desc = "Max strength"
-cheat5_code = "80097BC8+03E7"
+cheat5_code = "80097BB8+03E7"
 cheat5_enable = false 
 
 cheat6_desc = "Max condition"
-cheat6_code = "80097BCC+03E7"
+cheat6_code = "80097BBC+03E7"
 cheat6_enable = false 
 
 cheat7_desc = "Max intelligence"
-cheat7_code = "80097BD0+03E7"
+cheat7_code = "80097BC0+03E7"
 cheat7_enable = false 
 
 cheat8_desc = "Max luck"
-cheat8_code = "80097BD4+03E7"
+cheat8_code = "80097BC4+03E7"
 cheat8_enable = false 
 
 cheat9_desc = "All Relics"
@@ -122,3 +122,6 @@ cheat29_desc = "Have all Spells"
 cheat29_code = "50000402+0202+80097992+8081"
 cheat29_enable = false 
 
+cheat30_desc = "Max Health"
+cheat30_code = "80097BA4+270F"
+cheat30_enable = false
